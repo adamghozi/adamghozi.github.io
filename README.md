@@ -5,16 +5,6 @@
 ## Education
 - Sarjana, Science(S.Si.) | Universitas Indonesia (_Aug 2021_)		
 
-## Work Experience
-**Lab Analyst @ Laboratorium Alfa Delta Ceprindo (_Oct 2022 - Present_)**
-- Developed comprehensive work instructions and standard operating procedures for ceramic product testing in accordance with ISO 10545 and other standards ensuring consistent and accurate testing procedures,
-- Documenting and interpreting test data, preparing reports, and communicating findings to stakeholders,
-- Maintaining laboratory records, including sample tracking, results, and quality control data,
-- Implementing ISO 9001 for quality management to consistently provide services that meet customer and regulatory needs,
-- Continuously improved laboratory processes and workflows, identifying areas for enhancement, implementing automation solutions, and streamlining operations,
-- Successfully obtained laboratory accreditations and certifications, such as ISO 17025, demonstrating a commitment to quality management and adherence to international standards.
-
-
 ## Learning Projects
 ### [Car Rental Data Management Project](https://github.com/adamghozi/car-rental-data-management)
 
